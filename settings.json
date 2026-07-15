@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "watermelon-kVb1.aternos.me:14798",
+    "ip": "watermelon-kVb1.aternos.me",
     "port": 14798,
     "version": 1.21 ,
     "try-creative": false
